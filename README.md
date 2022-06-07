@@ -1,2 +1,2 @@
 # Connect-Four.py
-This is a simple python script to play connect-four on your local command line. Similar to my tic-tac-toe script, the main purpose of this project was to demonstrate my basic knowledge of Python.
+This is a simple python script to play connect-four on your local command line. Similar to my tic-tac-toe script, the main purpose of this project was to demonstrate my basic knowledge of Python. I know there are other methods that are shorter and more efficient, but I wanted to keep it simple. If in the future I decide to dive more into software development, I will be sure to update the script will more complex/efficient code.
